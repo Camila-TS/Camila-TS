@@ -1,5 +1,5 @@
 # 👋 Hola, mi nombre es Camila Thompson
-### Soy Front End Developer en formación en el Bootcamp de Laboratoria, donde estoy desarrollando mis tech skills y potenciando mis life skills.
+### Soy Front End Developer egresada del Bootcamp de Laboratoria, donde desarrollé mis tech skills y potencié mis life skills.
 
 ## Tech Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
